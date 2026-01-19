@@ -75,8 +75,8 @@ LLM-powered chatbot answering questions about company financials from SEC filing
 
 **Tech:** Python, LangChain, ChromaDB, FastAPI, Streamlit, GPT-4
 
-### 🖼️ [Scene-AI](https://github.com/ARJUNVARMA2000/Seance_AI)
-AI-powered scene understanding application deployed on Railway for real-time image analysis.
+### 🖼️ [Sceance-AI](https://github.com/ARJUNVARMA2000/Seance_AI)
+A digital séance platform for conversing with 60+ historical figures. Features Seance Mode (one-on-one) and Dinner Party Mode (multi-figure conversations) with authentic, era-appropriate personalities.
 
 **Tech:** Python, PyTorch, FastAPI, Railway | [Live Demo](https://scence-ai.up.railway.app)
 
@@ -106,7 +106,7 @@ Chrome extension for fine-grained video playback speed control (0.1x to 16x) acr
 
 ## 🏆 Achievements
 
-- 🏅 **Client Contraste Award** @ ZS Associates for outstanding client outcomes
+- 🏅 **Client Comrade Award** @ ZS Associates for outstanding client outcomes
 - 🚀 **Fast-Track Promotion** - Promoted to Associate Consultant in 4 cycles (typical: 5)
 - 🎯 **Top 10%** finish in company-wide hackathon
 - 📈 **Top 1%** Fantasy Premier League finisher for 4 consecutive years
@@ -122,7 +122,7 @@ Chrome extension for fine-grained video playback speed control (0.1x to 16x) acr
 **Decision Analytics Associate Consultant** @ ZS Associates (Jul 2024 - Jan 2025)
 - Led 5-member team on strategic initiative, saving ~50 hrs/mo and improving quality to >99%
 - Built and productionized Positive-Unlabeled (PU) learning models for Fortune 500 organization
-- Received Client Contraste Award for outstanding client outcomes
+- Received Client Comrade Award for outstanding client outcomes
 
 ## 📫 Let's Connect
 
