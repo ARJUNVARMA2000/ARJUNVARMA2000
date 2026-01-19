@@ -2,8 +2,14 @@
 
 <div align="center">
 
+<!-- Dynamic Typing Effect Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Developer;Building+Intelligent+Systems+for+Healthcare;Open+to+Summer+2026+Internships" alt="Typing SVG" />
+
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Summer%202026%20Internships-brightgreen?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-New%20York%2C%20NY-blue?style=for-the-badge)
+
+<!-- Animated SVG Banner -->
+<img src="https://raw.githubusercontent.com/ARJUNVARMA2000/ARJUNVARMA2000/main/assets/animated-wave.svg" alt="Wave animation" width="100%" height="150" />
 
 </div>
 
@@ -93,6 +99,8 @@ Chrome extension for fine-grained video playback speed control (0.1x to 16x) acr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUNVARMA2000&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ARJUNVARMA2000&theme=radical&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARJUNVARMA2000&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FF6B9D)
 
 </div>
 
