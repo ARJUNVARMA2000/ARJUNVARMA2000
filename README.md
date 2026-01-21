@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Effect Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=900&lines=Advanced+Data+Science+Consultant+%40+ZS+Associates+%7C+Building+intelligent+systems+with+ML%2C+Deep+Learning+%26+AI+for+Fortune+500+healthcare+clients.;MS+in+Data+Science+at+Columbia+Univeristy+%7C+Ex-+Advanced+Data+Science+Associate+at+ZS+Associates" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=900&lines=Advanced+Data+Science+Consultant+%40+ZS+Associates+%7C+Building+intelligent+systems+with+ML%2C+Deep+Learning+%26+AI+for+Fortune+500+healthcare+clients.;MS+in+Data+Science+at+Columbia+University+%7C+Ex-+Advanced+Data+Science+Associate+at+ZS+Associates" alt="Typing SVG" />
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Summer%202026%20Internships-brightgreen?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-New%20York%2C%20NY-blue?style=for-the-badge)
