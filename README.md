@@ -78,7 +78,7 @@ LLM-powered chatbot answering questions about company financials from SEC filing
 ### 🖼️ [SeanceAI](https://github.com/ARJUNVARMA2000/SeanceAI)
 A digital séance platform for conversing with 60+ historical figures. Features Seance Mode (one-on-one) and Dinner Party Mode (multi-figure conversations) with authentic, era-appropriate personalities.
 
-**Tech:** Python, PyTorch, FastAPI, Railway | [Live Demo](https://sceance-ai.up.railway.app)
+**Tech:** Python, PyTorch, FastAPI, Railway | [Live Demo](https://seance-ai.up.railway.app)
 
 ### 🌾 Agricultural Product Classification
 RAG product-classification system for a Series-B East African agtech achieving 99% accuracy.
