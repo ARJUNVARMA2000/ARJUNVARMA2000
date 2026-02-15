@@ -90,6 +90,16 @@ Chrome extension for fine-grained video playback speed control (0.1x to 16x) acr
 
 **Tech:** JavaScript, Chrome APIs, MutationObserver
 
+### 🐦 [Tweet Bot](https://github.com/ARJUNVARMA2000/tweet-bot)
+AI-powered Chrome extension for tweet replies, quotes, and threads using Claude via OpenRouter. Features voice learning, tone control, image understanding, and multi-model support.
+
+**Tech:** JavaScript, Chrome APIs, OpenRouter API
+
+### 📚 [Citation Format Checker](https://github.com/ARJUNVARMA2000/citation-format-checker)
+Academic citation format checker chatbot (APA 7th, MLA 9th, Chicago 17th) powered by Vertex AI with rule-ID based violation detection. Deployed on GCP Cloud Run.
+
+**Tech:** Python, FastAPI, Vertex AI, Google Cloud Run, Docker | [Live Demo](https://citation-bot-7pj7nolpla-uc.a.run.app)
+
 ## 📊 GitHub Stats
 
 <div align="center">
