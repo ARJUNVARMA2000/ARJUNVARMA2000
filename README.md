@@ -103,7 +103,7 @@ Academic citation format checker chatbot (APA 7th, MLA 9th, Chicago 17th) powere
 ### 🎓 [ClassPulse](https://github.com/ARJUNVARMA2000/ClassPulse)
 Live classroom theme extraction tool. Professors post a question, students submit via QR code, and an LLM auto-summarizes responses into themed cards with student attribution.
 
-**Tech:** Python, FastAPI, React, TypeScript, OpenRouter API, Railway
+**Tech:** Python, FastAPI, React, TypeScript, OpenRouter API, Railway | [Live Demo](https://themepulse-production.up.railway.app/)
 
 ## 📊 GitHub Stats
 
