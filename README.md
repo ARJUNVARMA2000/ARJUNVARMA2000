@@ -100,6 +100,11 @@ Academic citation format checker chatbot (APA 7th, MLA 9th, Chicago 17th) powere
 
 **Tech:** Python, FastAPI, Vertex AI, Google Cloud Run, Docker | [Live Demo](https://citation-bot-7pj7nolpla-uc.a.run.app)
 
+### 🎓 [ClassPulse](https://github.com/ARJUNVARMA2000/ClassPulse)
+Live classroom theme extraction tool. Professors post a question, students submit via QR code, and an LLM auto-summarizes responses into themed cards with student attribution.
+
+**Tech:** Python, FastAPI, React, TypeScript, OpenRouter API, Railway
+
 ## 📊 GitHub Stats
 
 <div align="center">
