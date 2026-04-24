@@ -1,16 +1,12 @@
 # Arjun Varma
 
-**data scientist, ML engineer, obsessive about the loop.**
+**data scientist, ML engineer**
 
-Columbia MS (Applied Analytics), graduating Dec '26. Incoming Data Science Intern at **Novo Nordisk** (Summer '26). Seeking full-time DS / MLE roles starting Jan '27.
-
-> *"the model is easy; the loop is the product."* — Obs. 01
->
-> Evals, drift, citations. Retraining schedules. The thing users feel is the loop, not the weights.
+Columbia MS (Data Science), graduating Dec '26. Incoming Data Science Intern at **Novo Nordisk** (Summer '26). Seeking full-time DS / MLE roles starting Jan '27.
 
 ---
 
-### Field Notes → [arjun-varma.com](https://arjun-varma.com/)
+### Field Notes → [arjun-varma.com]
 
 A working notebook of shipped projects, case studies, and ongoing experiments.
 
@@ -18,9 +14,8 @@ A working notebook of shipped projects, case studies, and ongoing experiments.
 
 ### Currently shipping
 
-- **Exp. 01** — [Multi-agent Data Analyst](https://github.com/ARJUNVARMA2000/airbnb-data-analyst-agent) — 5 agents on a typed message bus (Planner, Retriever, Analyst, Critic, Presenter). LangChain + Claude.
-- **Obs. 01** — Production ML isn't the model. It's the loop around it: evals, drift detection, retraining cadence, citation traceability.
-- **Columbia TA** — Applied Machine Learning, Data Science for Social Good.
+- **Exp. 01** — [Multi-agent Data Analyst](https://github.com/ARJUNVARMA2000/airbnb-data-analyst-agent) — 5 agents on a typed message bus (Planner, Retriever, Analyst, Critic, Presenter).
+- **Columbia TA** — Foundations of AI, Hollywood and Big data
 
 ### Recent projects
 
@@ -52,7 +47,7 @@ A working notebook of shipped projects, case studies, and ongoing experiments.
 ### Before Columbia
 
 - **ZS Associates** (Analytics Consultant, 2022 – 2025) — BTC early detection model (presented at PMSA 2025), pharma commercial analytics across oncology and neuroscience.
-- **SunCulture** (Data Science Intern, 2021) — agricultural standardization models for smallholder farmer solar irrigation in East Africa.
+- **SunCulture** (Data Science Intern, 2025) — agricultural standardization models for smallholder farmer solar irrigation in East Africa.
 - **VIT University** (B.Tech, 2018 – 2022) — Special Achiever Award, Merit Scholarship.
 
 ---
