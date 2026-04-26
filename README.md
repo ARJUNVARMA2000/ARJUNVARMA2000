@@ -1,7 +1,11 @@
 # Arjun Varma
 
 Data scientist / ML engineer. M.S. Data Science at **Columbia University** (Aug 2025 — Dec 2026). 
+
+
 Incoming Data Science Intern at **Novo Nordisk** (Summer '26). 
+
+
 Seeking full-time DS / MLE roles starting **Jan '27**.
 
 Portfolio → [arjun-varma.com](https://arjun-varma.com/)
