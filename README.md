@@ -18,9 +18,19 @@ Portfolio → [arjun-varma.com](https://arjun-varma.com/)
 
 ### Experience
 
-**ZS Associates** · Pune · Feb 2022 – Jun 2025. Promoted Decision Analytics Associate → Associate Consultant → Advanced Data Science Associate Consultant in 4 cycles (typical: 5). Most recently built an org-wide analytics/ML platform (Spark/SQL + dashboards) that unified 5+ data sources into territory and product KPIs for 100+ stakeholders on a $10B oncology portfolio, cutting weekly reporting from days to minutes. Built PU-learning models for missing-label inference, lifting customer-journey analytics coverage from ~40% to ~95%; shipped drift monitoring and CI unit tests for production pipelines; led a 5-person team modernizing legacy business rules (~50 hrs/mo saved, >99% first-pass quality). Earlier, engineered PySpark/SQL ETL pipelines spanning millions of patients for $4B+ oncology drug performance analytics. Developed the **BTC early detection model** (250M claims, ~45-day earlier identification), presented at **PMSA 2025** and adopted for territory-level resource planning. Recognitions: Expert Associate, Insight Illuminator, top ~10% in company-wide hackathon.
+**ZS Associates** · Pune · Feb 2022 – Jun 2025  
+Promoted Decision Analytics Associate → Associate Consultant → Advanced Data Science Associate Consultant in 4 cycles (typical: 5).
+- Built an org-wide analytics/ML platform (Spark/SQL + dashboards) unifying 5+ data sources into territory and product KPIs for 100+ stakeholders on a $10B oncology portfolio; cut weekly reporting from days to minutes
+- Engineered PySpark/SQL ETL pipelines spanning millions of patients for $4B+ oncology drug performance analytics
+- Built PU-learning models for missing-label inference, lifting customer-journey analytics coverage from ~40% to ~95%
+- Shipped drift monitoring and CI unit tests for production pipelines; led a 5-person team modernizing legacy business rules (~50 hrs/mo saved, >99% first-pass quality)
+- Developed the **BTC early detection model** (250M claims, ~45-day earlier identification), presented at **PMSA 2025** and adopted for territory-level resource planning
+- Recognitions: Expert Associate · Insight Illuminator · top ~10% in company-wide hackathon
 
-**SunCulture** · AI Engineer Intern · Sep 2025 – Dec 2025. RAG-augmented classifier for 7M+ farmer transactions across 500+ product categories, driving microloan creditworthiness assessment for farmers in East Africa. 99% accuracy on a 10K holdout via hybrid rule-based + LLM-assisted classification; 95% reduction in manual review volume, accelerating loan decisioning.
+**SunCulture** · AI Engineer Intern · Sep 2025 – Dec 2025
+- RAG-augmented classifier for 7M+ farmer transactions across 500+ product categories, driving microloan creditworthiness assessment for farmers in East Africa
+- 99% accuracy on a 10K holdout via hybrid rule-based + LLM-assisted classification
+- 95% reduction in manual review volume, accelerating loan decisioning
 
 ### Education
 
