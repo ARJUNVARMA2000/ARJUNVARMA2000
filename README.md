@@ -8,13 +8,13 @@ Portfolio → [arjun-varma.com](https://arjun-varma.com/)
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Airbnb Data Analyst Agent](https://github.com/ARJUNVARMA2000/airbnb-data-analyst-agent) | Multi-step agent that plans → writes → executes SQL + pandas + charts for Airbnb questions with narrated citations. | Agents · Tool use · SQL · pandas · Evals |
-| [Financial RAG Chatbot](https://github.com/ARJUNVARMA2000/Financial-RAG-Chatbot) | Line-level citations over SEC 10-Ks. ChromaDB + text-embedding-3-large. Claude Opus as eval judge. | FastAPI · ChromaDB · LangChain · GCP |
-| [ClassPulse](https://github.com/ARJUNVARMA2000/ClassPulse) | Live classroom theme extraction via SSE. 5-model OpenRouter fallback. | FastAPI · React · OpenRouter · Railway |
-| [Citation Format Checker](https://github.com/ARJUNVARMA2000/citation-format-checker) | APA 7 / MLA 9 / Chicago 17 violation detector with rule IDs + quoted evidence. | Vertex AI · Gemini 2.0 Flash Lite · pytest · Cloud Run |
-| [Tweet Bot](https://github.com/ARJUNVARMA2000/tweet-bot) | Chrome MV3 extension. Rhetorical-strategy-tagged tweet suggestions; voice-learning from selections. | Chrome MV3 · Claude via OpenRouter |
-| [SeanceAI](https://github.com/ARJUNVARMA2000/Seance_AI) | Converse with 60+ historical figures; Dinner Party multi-figure mode. | Flask · SSE · OpenRouter |
-| [Video Speed Controller](https://github.com/ARJUNVARMA2000/Video-Speed-Controller-extension) | 0.1× – 16× playback across any HTML5 video. [Chrome Web Store →](https://chromewebstore.google.com/detail/video-speed-controller-pr/mahfenfglifhcipcpobblpgdaefigpee) | Chrome MV3 · MutationObserver |
+| [Airbnb Data Analyst Agent](https://github.com/ARJUNVARMA2000/airbnb-data-analyst-agent) | Drop-in data analyst agent (multi-agent under the hood). Ask a natural-language question about Airbnb listings; it forms a hypothesis, writes and runs code to test it, iterates, and returns a polished report, the kind a human analyst would hand you. | OpenAI Agents SDK · DuckDB · FastAPI · Next.js · pandas · matplotlib · Evals |
+| [Financial RAG Chatbot](https://github.com/ARJUNVARMA2000/Financial-RAG-Chatbot) | RAG chatbot that lets financial analysts query SEC 10-K filings in natural language. Every answer is grounded in the exact lines it came from, cutting research time and minimizing hallucinations. | FastAPI · ChromaDB · OpenAI embeddings · pdfplumber · Streamlit · Cloud Run |
+| [ClassPulse](https://github.com/ARJUNVARMA2000/ClassPulse) | Custom tool I built while TA-ing at Columbia. Instructors pose an open-ended question to the class; an LLM clusters student responses into the major themes and renders them as bullet points, each crediting the students who answered in that spirit. Five-model failover keeps it live if a provider drops. | FastAPI · sse-starlette · React + Vite · OpenRouter (5-model fallback) · Railway |
+| [Citation Format Checker](https://github.com/ARJUNVARMA2000/citation-format-checker) | APA 7 / MLA 9 / Chicago 17 violation detector with rule IDs + quoted evidence. | FastAPI · LiteLLM · Vertex AI (Gemini 2.0 Flash Lite) · pytest · Cloud Run |
+| [Tweet Bot](https://github.com/ARJUNVARMA2000/tweet-bot) | Chrome MV3 extension. Rhetorical-strategy-tagged tweet suggestions; voice-learning from selections. | JavaScript · Browser extension · OpenRouter · Claude · Cross-browser (Chrome + Firefox) |
+| [SeanceAI](https://github.com/ARJUNVARMA2000/Seance_AI) | Converse with 60+ historical figures; Dinner Party multi-figure mode. | Flask · gunicorn (gevent) · SSE · OpenRouter · Railway |
+| [Video Speed Controller](https://github.com/ARJUNVARMA2000/Video-Speed-Controller-extension) | 0.1× – 16× playback across any HTML5 video. [Chrome Web Store →](https://chromewebstore.google.com/detail/video-speed-controller-pr/mahfenfglifhcipcpobblpgdaefigpee) | JavaScript · Browser extension · MutationObserver · Cross-browser (Chrome + Firefox) |
 
 ### Experience
 
