@@ -1,6 +1,6 @@
 # Arjun Varma
 
-Data scientist / ML engineer. M.S. Data Science at **Columbia University** (Aug 2025 — Dec 2026). Incoming Data Science Intern at **Novo Nordisk** (Summer '26). Seeking full-time DS / MLE roles starting **Jan '27**.
+Data scientist / ML engineer. M.S. Data Science at **Columbia University** (Aug 2025 — Dec 2026). Data Science Intern at **Novo Nordisk** (Summer '26). Seeking full-time DS / MLE roles starting **Jan '27**.
 
 Portfolio → [arjun-varma.com](https://arjun-varma.com/)
 
@@ -11,7 +11,7 @@ Portfolio → [arjun-varma.com](https://arjun-varma.com/)
 | [DEUCE — Tennis Forecast Engine](https://github.com/ARJUNVARMA2000/tennis-elo) | Live ATP/WTA forecaster combining surface Elo, opponent-adjusted serve/return models, and a calibrated XGBoost ensemble. Refreshes hourly, simulates tournament draws, and benchmarks predictions against market odds. | Python · XGBoost · NumPy · pandas · Next.js · TypeScript · GitHub Actions |
 | [GAFFER — World Cup Forecast Engine](https://github.com/ARJUNVARMA2000/wc-2026-gaffer) | Self-refreshing 2026 World Cup model combining Elo, Dixon–Coles goal estimates, squad-value features, and 50,000-run Monte Carlo simulation. Freezes pre-match forecasts and grades them against Kalshi. | Python · NumPy · pandas · Next.js · TypeScript · Firebase · GitHub Actions |
 | [ClaimReady](https://github.com/Agentic-AI-Project-Columbia/claimready) | Co-built multi-agent workflow that turns contracts, invoices, emails, and screenshots into an NYC small-claims PDF packet, grounded by legal RAG and live New York Department of State records. | OpenAI Agents SDK · Vertex AI · FastAPI · ChromaDB · Next.js · ReportLab · Cloud Run |
-| [Financial RAG Chatbot](https://github.com/ARJUNVARMA2000/Financial-RAG-Chatbot) | RAG chatbot that lets financial analysts query SEC 10-K filings in natural language. Every answer is grounded in the exact lines it came from, cutting research time and minimizing hallucinations. | FastAPI · ChromaDB · OpenAI embeddings · pdfplumber · Streamlit · Cloud Run |
+| [Financial RAG Chatbot](https://github.com/ARJUNVARMA2000/Financial-RAG) | RAG chatbot that lets financial analysts query SEC 10-K filings in natural language. Every answer is grounded in the exact lines it came from, cutting research time and minimizing hallucinations. | FastAPI · ChromaDB · OpenAI embeddings · pdfplumber · Streamlit · Cloud Run |
 | [ClassPulse](https://github.com/ARJUNVARMA2000/ClassPulse) | Custom tool I built while TA-ing at Columbia. Instructors pose an open-ended question to the class; an LLM clusters student responses into the major themes and renders them as bullet points, each crediting the students who answered in that spirit. Five-model failover keeps it live if a provider drops. | FastAPI · sse-starlette · React + Vite · OpenRouter (5-model fallback) · Railway |
 | [SeanceAI](https://github.com/ARJUNVARMA2000/Seance_AI) | Chat with 60+ historical figures in character, each speaking with era-appropriate language and worldview. Dinner Party mode runs a multi-figure group conversation where several voices interact in real time. | Flask · gunicorn (gevent) · SSE · OpenRouter · Railway |
 
