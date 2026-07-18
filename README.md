@@ -27,7 +27,7 @@ Promoted Decision Analytics Associate → Associate Consultant → Advanced Data
 - Developed the **BTC early detection model** (250M claims, ~45-day earlier identification), presented at **PMSA 2025** and adopted for territory-level resource planning
 - Recognitions: Expert Associate · Insight Illuminator · top ~10% in company-wide hackathon
 
-**SunCulture** · AI Engineer Intern · Sep 2025 – Dec 2025
+**SunCulture** (Series-B Agtech Startup) · AI Engineer Intern · Sep 2025 – Dec 2025
 - RAG-augmented classifier for 7M+ farmer transactions across 500+ product categories, driving microloan creditworthiness assessment for farmers in East Africa
 - 99% accuracy on a 10K holdout via hybrid rule-based + LLM-assisted classification
 - 95% reduction in manual review volume, accelerating loan decisioning
